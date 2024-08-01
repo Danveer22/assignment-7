@@ -12,7 +12,7 @@ const StyledDiv = styled.div`
   overflow-y: scroll;
 
   @media (max-width: 768px) {
-    width: 75%;
+    width: 90%;
   }
   h1 {
     font-size: 2.4rem;
